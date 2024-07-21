@@ -1,4 +1,6 @@
-Entities
+Parent: [The Artificial Intelligence Unit](https://github.com/theartificialintelligenceunit)
+
+Automatic Entity Redaction
 
 **Project Label**: $prml_{4}$
 
